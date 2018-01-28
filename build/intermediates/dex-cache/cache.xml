@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_343e6f961b0b9c7267c6ef73e2263bfdaa068058\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8158379bbe169c4bc834531041c5123cae1d75a">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_526eb7164736397680f8c894252c95a25afc7654\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_94e61bc0465fdfc6d1d5b1f38f32a45d2021e0de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3a4b83e3e17a089dbad1e372d1c3596bcad9a3d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_22fdb3ae25d920cf1827944ed8ce36fd950051d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_cd34d5abe72f6c8990fc7128a96b9b4bf3660f0b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fmi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_068a72ae8b1d2ec2e588516199714e126b4df623\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2bf215229bf1a08e4f9a3b937d9c950b0e29d976">
+        <dex dex="C:\Users\fmi\Desktop\2032\Game2032\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_40695b8963130352060eba0cb4485521fbfa21f1\classes.dex" />
+    </item>
+
+</items>

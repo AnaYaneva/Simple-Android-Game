@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a"
+    api-level="21"
+    density="xhdpi"
+    format="7"
+    timestamp="3660114824906"
+    token="-608939998453126798" >
+
+    <task
+        name="javac"
+        duration="5367" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1160" />
+    <task
+        name="verifier"
+        duration="258" />
+
+    <artifact
+        location="C:\Users\fmi\Desktop\2032\Game2032\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="3660114824906" >
+        <artifact
+            location="C:\Users\fmi\Desktop\2032\Game2032\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
